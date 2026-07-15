@@ -14,7 +14,7 @@ Feel free to poke around: any questions or contributions are welcome.
 - 💼 [LinkedIn](https://www.linkedin.com/in/ganesh-danke-63125821a/)  
 - 🤗 [Hugging Face](https://huggingface.co/dankeg)  
 
-**Reach out at danke.g@northeastern.edu with any inquries or opportunities.**
+**Reach out at dankeg@stanford.edu with any inquries or opportunities.**
 
 <!--
 **dankeg/dankeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
