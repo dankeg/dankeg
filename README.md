@@ -1,9 +1,12 @@
-### 👋 Hi, I'm **Ganesh Danke**
+### 👋 Hi, I'm Ganesh Danke
 
-I'm a **Computer Science major at Northeastern University**, concentrating in **Artificial Intelligence**.  
-Currently, I'm a **Software Engineering Co-op at Wayfair (Boston)**, where I develop and productionalize **product recommendation pipelines** for e-commerce. 
+I'm a Machine Learning Research Fellow at Stanford University’s Regulation, Evaluation, and Governance Lab (RegLab), where I work on the evaluation and architecture of large-scale, public-facing language-model systems.
 
-This GitHub includes a range of **technical and research projects**, covering projects related to Machine Learning, Space Systems, Embedded Development, and Software Engineering. 
+Previously, I used network science and representational geometry to study how language models learn, generalize, and fail, with the goal of developing more reliable ways to evaluate and train them.
+
+I also helped lead Northeastern University’s first spacecraft mission, building on my work in satellite autonomy, flight software, and experimental space systems.
+
+This GitHub contains projects spanning machine learning, network science, language models, and space systems.
 
 Feel free to poke around: any questions or contributions are welcome. 
 ---
